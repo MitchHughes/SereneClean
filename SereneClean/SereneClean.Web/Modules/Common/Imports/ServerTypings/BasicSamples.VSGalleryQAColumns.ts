@@ -1,0 +1,3 @@
+﻿namespace SereneClean.BasicSamples {
+}
+
