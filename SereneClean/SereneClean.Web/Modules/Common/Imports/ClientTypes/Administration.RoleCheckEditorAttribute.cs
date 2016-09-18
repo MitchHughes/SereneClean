@@ -7,14 +7,14 @@ using System.ComponentModel;
 
 namespace SereneClean.Administration
 {
-	public partial class RoleCheckEditorAttribute : CustomEditorAttribute
-	{
-		public const string Key = "SereneClean.Administration.RoleCheckEditor";
+    public partial class RoleCheckEditorAttribute : CustomEditorAttribute
+    {
+        public const string Key = "SereneClean.Administration.RoleCheckEditor";
 
-		public RoleCheckEditorAttribute()
-			: base(Key)
-		{
-		}
-	}
+        public RoleCheckEditorAttribute()
+            : base(Key)
+        {
+        }
+    }
 }
 
